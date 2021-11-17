@@ -1,3 +1,5 @@
 Ini file 1
 File 1 ditambah isinya
-Baris ini ditambah di repo sentral github
+Baris ini ditambah di repo sentral github, ditambah di repo lokal.
+Lalu ditambah lagi di repo lokal PC
+
