@@ -1,3 +1,4 @@
 Ini isi file 4 yg dibuat di repo master
 Baris ke 2
 Baris ini ditambah di repo sentral Github
+Baris ini ditambah di repo lokal, lalu di-push ke github.
